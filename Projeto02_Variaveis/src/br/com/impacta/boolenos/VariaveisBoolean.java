@@ -1,0 +1,15 @@
+package br.com.impacta.boolenos;
+
+public class VariaveisBoolean {
+	
+	public static void main(String[] args) {
+		boolean b1 = true;
+		
+		int numero = 10;
+		boolean b2 = (numero > 10);
+		System.out.println("b1: " + b1);
+		System.out.println("b2: " + b2);
+	
+	
+	}
+}
